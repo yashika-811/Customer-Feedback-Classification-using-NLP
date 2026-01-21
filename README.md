@@ -38,7 +38,7 @@ Reviews are short text sentences written by customers
 
 Each review is manually labeled for learning and demonstration purposes
 
-🛠️ Tools & Technologies
+Tools & Technologies
 
 Programming Language: Python
 
